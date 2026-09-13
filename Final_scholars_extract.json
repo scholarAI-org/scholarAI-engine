@@ -1,0 +1,1244 @@
+[
+  {
+    "id": 263,
+    "title": "منحة جامعة بابيش-بوليا في رومانيا بتمويل كامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 264,
+    "title": "منحة جامعة أليكساندرو إيوان كوزا الممولة بالكامل في رومانيا",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 80,
+    "max_age": 35,
+    "allowed_fields_of_study": [
+      "كلية العلوم الطبيعية والرياضيات",
+      "كلية الطب",
+      "كلية الهندسة وعلوم الحاسوب",
+      "كلية الاقتصاد وإدارة الأعمال",
+      "كلية القانون",
+      "كلية العلوم الإنسانية والفنون",
+      "كلية العلوم الاجتماعية والنفسية",
+      "كلية التربية والعلوم التربوية",
+      "كلية الكيمياء",
+      "كلية الفيزياء"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": false
+  },
+  {
+    "id": 265,
+    "title": "منحة جامعة نيقوسيا الممولة جزئياً في قبرص",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "ALL"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 80,
+    "max_age": 35,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Partially Funded",
+    "is_req_experience": true,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 266,
+    "title": "منحة ممولة بالكامل في جامعة أنكونا بإيطاليا",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "ALL"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 70,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Engineering",
+      "Medical Sciences",
+      "Computer Science",
+      "Administration and Economics",
+      "Environmental Sciences"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 267,
+    "title": "منحة جامعة كاسينو في إيطاليا – تمويل جزئي أو كامل",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "ALL"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 70,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Engineering",
+      "Economics",
+      "Management",
+      "Environmental Sciences",
+      "Law",
+      "Arts and Humanities"
+    ],
+    "requires_english_proof": true,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 268,
+    "title": "منحة جامعة لويس في إيطاليا بتمويل كامل أو جزئي",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 85,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Economics",
+      "Law",
+      "Business Administration",
+      "International Relations",
+      "Political Science",
+      "Innovation",
+      "Public Policy"
+    ],
+    "requires_english_proof": true,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 269,
+    "title": "منحة جامعة مدريد المستقلة في إسبانيا بتمويل كامل",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 75,
+    "max_age": 35,
+    "allowed_fields_of_study": [
+      "Science",
+      "Medicine and Health Sciences",
+      "Engineering",
+      "Economics and Business",
+      "Law",
+      "Humanities",
+      "Education",
+      "Psychology"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 270,
+    "title": "منحة جامعة غرناطة الممولة بالكامل في إسبانيا",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 85,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Engineering",
+      "Science",
+      "Medicine",
+      "Dentistry",
+      "Pharmacy",
+      "Economics and Business Administration",
+      "Law",
+      "Arts and Languages",
+      "Education",
+      "Social Sciences",
+      "Fine Arts",
+      "Sports Sciences"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 271,
+    "title": "منح دراسية للطلاب الدوليين في كلية هوب بالولايات المتحدة",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 272,
+    "title": "منحة أمناء جامعة بوسطن الدراسية للطلاب الدوليين",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "All"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 90,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 273,
+    "title": "منحة جامعة لوسيل للدراسة في قطر 2026 | سجل مجاناً الآن!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 274,
+    "title": "منحة جامعة محمد بن زايد للذكاء الاصطناعي ممولة بالكامل | سجل مجاناً!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 275,
+    "title": "منح ماجستير إدارة الأعمال ممولة بالكامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7499, Requested 2279. Please try again in 13.335s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 276,
+    "title": "منحة دراسية لأعضاء هيئة التدريس والخريجين في الاقتصاد في جامعة Guelph في كندا",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 277,
+    "title": "منح جامعة سيئول الوطنية في كوريا الجنوبية المُمولة بالكامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 278,
+    "title": "منح الطلاب الدوليين  في  جامعة  ماري  واشنطن",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 279,
+    "title": "منحة جامعة تسينغهوا الممولة بالكامل في الصين 2026",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 280,
+    "title": "منحة رودس للدراسات العليا في جامعة أكسفورد الممولة بالكامل في المملكة المتحدة",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 281,
+    "title": "منح جامعة الأمم المتحدة 2026 للدراسات العليا في ألمانيا ممولة بالكامل | تقدم الآن!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6723, Requested 3857. Please try again in 19.35s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 282,
+    "title": "منحة جامعة مانيتوبا للطلاب الدوليين من البكالوريوس 2026",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 283,
+    "title": "منحة ماجستير جزئية في جامعة تسينغهوا بالصين 2026",
+    "deadline": "2026-09-30",
+    "model_used": "openai/gpt-oss-20b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": 28,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Partially Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 284,
+    "title": "منحة جامعة أبردين العالمية لطلاب الدراسات العليا من أفريقيا بتمويل جزئي",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 285,
+    "title": "منحة جامعة دايتون للدراسة في الولايات المتحدة الأمريكية 2026 | سجل مجاناً!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6055, Requested 3432. Please try again in 11.1525s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 286,
+    "title": "منحة سلوفاكيا 2026 للطلاب الدوليين | برنامج NSP الممول",
+    "deadline": "2026-10-31",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 287,
+    "title": "12 برنامج ماجستير إدارة الأعمال - أفضل درجة ماجستير إدارة الأعمال الأوروبية",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 376,
+    "title": "منحة الحكومة الروسية 2026 ممولة بالكامل | تقدم الآن!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 377,
+    "title": "منحة الحكومة اليابانية MEXT ممولة للطلاب الدوليين 2026 | تقدم الآن!",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": 40,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": null,
+    "is_req_experience": true,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 378,
+    "title": "منحة الحكومة الصينية ممولة بالكامل لعام 2026 | تقدم الآن!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 379,
+    "title": "منحة الحكومة الفرنسية (ايفل Eiffel) ممولة بالكامل للدراسات العليا | تقدم الآن!",
+    "deadline": "2027-01-26",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 90,
+    "max_age": 30,
+    "allowed_fields_of_study": [
+      "Biology and Health",
+      "Environmental Transformation",
+      "Mathematics and Digital Sciences",
+      "Engineering",
+      "Humanities and Social Sciences",
+      "History and French Civilization",
+      "Law and Political Science",
+      "Economics and Management"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 380,
+    "title": "منحة جامعة قطر 2026 ممولة بالكامل | تقدم الآن!",
+    "deadline": "2027-06-01",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 95,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Arts and Sciences",
+      "Administration and Economics",
+      "Education",
+      "Engineering",
+      "Health Sciences",
+      "Law",
+      "Medicine",
+      "Pharmacy",
+      "Sharia and Islamic Studies",
+      "Dentistry"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 381,
+    "title": "منحة الحكومة الإيرلندية ممولة بالكامل لعام 2026 | تقدم الآن!",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 382,
+    "title": "منحة معهد الدوحة للدراسات العليا في قطر 2026 ممولة بالكامل: تقدم الآن!",
+    "deadline": "2027-01-15",
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 6977, Requested 3128. Please try again in 15.7875s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 383,
+    "title": "منحة الحكومة الهولندية لطلاب البكالوريوس والماجستير للعام الدراسي 2026",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 384,
+    "title": "منح دراسية لمرحلة الدراسات العليا في كلية بوند للأعمال",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Postgraduate"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": true,
+    "requires_university_admission": true
+  },
+  {
+    "id": 385,
+    "title": "منحة جامعة فارنا الحرة في بلغاريا الممولة بالكامل 2026",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 386,
+    "title": "منحة الجامعة التقنية في صوفيا ممولة بالكامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 387,
+    "title": "منحة الجامعة الطبية بصوفيا - ممولة بالكامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 388,
+    "title": "منحة جامعة كونستانتين شومن الممولة بالكامل في بلغاريا",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 389,
+    "title": "منحة الجامعة الأمريكية في بلغاريا",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "All"
+    ],
+    "allowed_gender": "Any",
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Business Administration",
+      "Computer Science",
+      "Economics",
+      "Political Science and International Relations",
+      "Journalism and Media",
+      "Environmental Science",
+      "Psychology",
+      "Mathematics",
+      "English Literature and Literary Studies",
+      "Fine Arts"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Partially Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 390,
+    "title": "منحة جامعة نانت تيك الممولة بالكامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7275, Requested 2478. Please try again in 13.1475s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 391,
+    "title": "منحة جامعة الملك عبدالله للعلوم والتقنية للدراسات العليا بتمويل كامل",
+    "deadline": "2027-05-14",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 392,
+    "title": "منحة جامعة فيرونا المموّلة بالكامل في إيطاليا",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `openai/gpt-oss-20b` in organization `org_01m1rme00gedz9s8sb6bdkjthe` service tier `on_demand` on tokens per minute (TPM): Limit 8000, Used 7740, Requested 1824. Please try again in 11.73s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+  },
+  {
+    "id": 393,
+    "title": "منحة جامعة بلباو في إسبانيا بتمويل كامل",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 394,
+    "title": "منحة جامعة أويتا الممولة بالكامل في اليابان",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 395,
+    "title": "منحة جامعة توهوكو الممولة بالكامل في اليابان",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 396,
+    "title": "منحة جامعة شيباورا بتمويل كامل في اليابان",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 397,
+    "title": "منحة جامعة كاغاوا الممولة بالكامل في اليابان",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 398,
+    "title": "منحة جامعة فوجيان الممولة بالكامل في الصين",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 399,
+    "title": "منحة جامعة شيان جياوتونغ الممولة بالكامل في الصين",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 400,
+    "title": "منحة جامعة هونان الممولة بالكامل في الصين",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 411,
+    "title": "منحة كلية أوروبا الممولة بالكامل في بلجيكا",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "All"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 461,
+    "title": "منحة جامعة العلوم والتكنولوجيا UST في كوريا الجنوبية",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 90,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 488,
+    "title": "منحة دراسية جزئية لدراسة ماجستير إدارة الأعمال في هارفارد 2027",
+    "deadline": "2027-05-31",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 90,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Business Administration"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Partially Funded",
+    "is_req_experience": true,
+    "is_Softskills_required": true,
+    "requires_university_admission": true
+  },
+  {
+    "id": 489,
+    "title": "منحة ماجستير ممولة بالكامل في جامعة لندن المملكة المتحدة 2026",
+    "deadline": "2026-09-09",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "علوم الحاسب",
+      "الهندسة"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Fully Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": null,
+    "requires_university_admission": null
+  },
+  {
+    "id": 490,
+    "title": "فرصة دراسة الدبلوم في أمريكا بتمويل جزئي في  KCC",
+    "deadline": "2027-05-01",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Diploma"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "United States"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Partially Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": false
+  },
+  {
+    "id": 491,
+    "title": "منح ممولة بالكامل لدراسة البكالوريوس والماجستير في جامعة سيينا إيطاليا 2026",
+    "deadline": "2027-05-06",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": 90,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Economics",
+      "Law",
+      "Finance",
+      "Accounting",
+      "International Management",
+      "Political Science",
+      "Social Sciences",
+      "Diplomacy",
+      "Cultural Studies",
+      "European Studies",
+      "Linguistics",
+      "Perception",
+      "Medical Sciences",
+      "Biotechnology",
+      "Biomedical Medicine",
+      "Artificial Intelligence",
+      "Engineering",
+      "Applied Mathematics",
+      "Chemical Engineering"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Partially Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 492,
+    "title": "منحة الجدارة في QatarDebate | فرصة لتطوير مهارات المناظرة والقيادة للشباب 2026",
+    "deadline": null,
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 493,
+    "title": "زمالة CATS الممولة بالكامل في برلين 2026 للباحثين في ألمانيا",
+    "deadline": "2027-04-30",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "All"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Turkey"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Fully Funded",
+    "is_req_experience": true,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 494,
+    "title": "فرصة دراسة في أوروبا بجامعة EMUNI  ماجستير ودكتوراه مع منح جزئية",
+    "deadline": "2026-09-30",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": true,
+    "funding_type": "Partially Funded",
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 495,
+    "title": "منحة حقوق الإنسان 2026 في University of Melbourne ممولة بالكامل للماجستير والدكتوراه في أستراليا",
+    "deadline": "2026-10-31",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": null,
+    "allowed_fields_of_study": [
+      "Human Rights"
+    ],
+    "requires_english_proof": null,
+    "funding_type": "Fully Funded",
+    "is_req_experience": true,
+    "is_Softskills_required": false,
+    "requires_university_admission": true
+  },
+  {
+    "id": 496,
+    "title": "ماجستير عربي في الديمقراطية وحقوق الإنسان 2026 (ARMA) | برنامج أكاديمي إقليمي مميز بدعم من ال European Union",
+    "deadline": "2026-12-01",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 497,
+    "title": "منحة University of Winnipeg 2026 في كندا للطلاب الدوليين بتمويل يصل إلى 5000 دولار",
+    "deadline": "2026-10-01",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 498,
+    "title": "منح جامعة Istanbul Aydın University 2026 في تركيا للبكالوريوس والماجستير",
+    "deadline": "2027-02-28",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 499,
+    "title": "منحة جامعة سيدني 2027 للماجستير والدكتوراه البحثية بتمويل كامل",
+    "deadline": "2026-09-11",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 500,
+    "title": "فرصة بحثية في سنغافورة لطلاب الدكتوراه من A STAR",
+    "deadline": "2026-12-01",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 501,
+    "title": "منح جامعة الملك فهد للبترول والمعادن للماجستير والدكتوراه 2026",
+    "deadline": "2027-06-30",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 502,
+    "title": "منح جامعة الملك فهد للبترول والمعادن للطلاب الدوليين 2026",
+    "deadline": null,
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 503,
+    "title": "منح جامعة الملك عبدالعزيز للطلاب الدوليين في السعودية",
+    "deadline": "2027-05-31",
+    "model_used": "openai/gpt-oss-20b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Bachelor",
+      "Master",
+      "PhD"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": 35,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 504,
+    "title": "منح جامعة الملك سعود لطلاب الدوليين في السعودية 2026",
+    "deadline": "2027-06-15",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 505,
+    "title": "منح الجامعة الإسلامية بالمدينة المنورة للطلاب الدوليين في السعودية 2026",
+    "deadline": "2027-05-20",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 506,
+    "title": "منح جامعة الأميرة نورة للطالبات غير السعوديات في السعودية 2026",
+    "deadline": "2027-05-31",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 507,
+    "title": "منحة KAUST للماجستير والدكتوراه في السعودية بتمويل بقيمة 70000 دولار سنوياً",
+    "deadline": "2027-05-19",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 508,
+    "title": "منحة دكتوراه KAUST في السعودية بتمويل كامل",
+    "deadline": "2027-05-31",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to generate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': 'max completion tokens reached before generating a valid document'}}"
+  },
+  {
+    "id": 509,
+    "title": "منح جامعة الأمير سلطان في السعودية لمرحلة البكالوريوس بتمويل جزئي",
+    "deadline": "2027-07-15",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 510,
+    "title": "منح بكالوريوس جامعة نجران في السعودية للطلاب الدوليين",
+    "deadline": "2027-05-21",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 511,
+    "title": "منح ماجستير جامعة نجران في السعودية للطلاب الدوليين",
+    "deadline": "2027-05-21",
+    "model_used": "openai/gpt-oss-120b",
+    "allowed_nationalities": [
+      "All"
+    ],
+    "target_degree_levels": [
+      "Master"
+    ],
+    "allowed_gender": [
+      "Any"
+    ],
+    "target_residencies": [
+      "Any"
+    ],
+    "min_gpa_percentage": null,
+    "max_age": 30,
+    "allowed_fields_of_study": [
+      "All"
+    ],
+    "requires_english_proof": null,
+    "funding_type": null,
+    "is_req_experience": null,
+    "is_Softskills_required": false,
+    "requires_university_admission": null
+  },
+  {
+    "id": 512,
+    "title": "منح KAS في ألمانيا 2026 للماجستير والدكتوراه والطلاب الدوليين",
+    "deadline": "2027-07-15",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 513,
+    "title": "منحة Heinrich-Böll-Stiftung للماجستير والدكتوراه في ألمانيا 2026",
+    "deadline": "2027-03-01",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 514,
+    "title": "منحة FES في ألمانيا 2026 بتمويل شهري للطلاب وطلاب الدكتوراه",
+    "deadline": "2027-05-31",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 515,
+    "title": "منحة ممولة في ألمانيا من Rosa-Luxemburg-Stiftung للماجستير والدكتوراه",
+    "deadline": "2026-10-01",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  },
+  {
+    "id": 516,
+    "title": "منحة Friedrich Naumann في ألمانيا 2026 للماجستير والدكتوراه بتمويل يصل  861 يورو",
+    "deadline": "2026-10-31",
+    "model_used": null,
+    "error": "Error code: 400 - {'error': {'message': \"Failed to validate JSON. Please adjust your prompt. See 'failed_generation' for more details.\", 'type': 'invalid_request_error', 'code': 'json_validate_failed', 'failed_generation': ''}}"
+  }
+]
